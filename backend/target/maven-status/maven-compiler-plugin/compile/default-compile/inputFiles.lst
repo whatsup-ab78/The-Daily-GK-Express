@@ -15,10 +15,12 @@ D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\dto\Q
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\dto\QuizDto.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\config\SwaggerConfig.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\controller\AdminController.java
+D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\controller\NewsController.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\service\QuizGenerationService.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\model\UserQuizAttempt.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\util\NewsApiClient.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\util\RssClient.java
+D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\repository\UserRepository.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\config\SecurityConfig.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\service\NewsFetchService.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\model\DailyQuiz.java

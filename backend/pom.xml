@@ -48,11 +48,11 @@
     </dependency>
 
     <!-- Lombok (reduce boilerplate) -->
-    <dependency>
+    <!-- <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <optional>true</optional>
-    </dependency>
+    </dependency> -->
 
     <!-- OpenNLP for basic NER -->
     <dependency>
