@@ -1,6 +1,8 @@
 com\aravind\booster\controller\QuizController.class
 com\aravind\booster\controller\TestController.class
 com\aravind\booster\model\Question.class
+com\aravind\booster\config\CorsConfig.class
+com\aravind\booster\config\CorsConfig$1.class
 com\aravind\booster\model\DailyQuiz.class
 com\aravind\booster\service\NewsFetchService.class
 com\aravind\booster\service\QuizService.class
