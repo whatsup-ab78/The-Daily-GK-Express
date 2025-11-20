@@ -1,6 +1,7 @@
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\repository\ArticleRepository.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\model\Question.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\Application.java
+D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\dto\SubmitQuizResponse.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\model\User.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\repository\QuestionRepository.java
 D:\Projects\The Daily GK Express\backend\src\main\java\com\aravind\booster\service\QuizService.java
